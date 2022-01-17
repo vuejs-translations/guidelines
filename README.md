@@ -1,2 +1,3 @@
-# guidelines
-Guidelines and workflow information for community translation efforts.
+# Vue Community Translation Guidelines
+
+This is currently work in progress. Check back later!
