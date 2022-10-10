@@ -10,9 +10,15 @@ If you are here, you are likely interested in contributing to the translation of
 
 3. Send us a Pull Request to add your WIP repo to the end of this README file.
 
-4. Once you have completed translation for more than 50% of the content, you can ping us in the original discussion thread to request officially transferring the repo into the `vuejs-translations` organization. We will invite you and other collaborators to the organization so you can continue working on it (Note: when you first transfer the repo, you likely won't have write access to it because the repo will need to be assigned to the team for proper permissions, let us know once the transfer is done so we can set it up).
+4. Once you have completed translation for more than 50% of the content, you can ping us in the original discussion thread to request officially transferring the repo into the `vuejs-translations` organization. We will invite you and other collaborators to the organization so you can continue working on it.
 
   We will also create an official deployment under preview URL (we have partnerships with hosting platforms so you don't need to bear the cost in case the traffic gets high).
+
+  Some Notes:
+
+  - When you first transfer the repo, you likely won't have write access to it because the repo will need to be assigned to the team for proper permissions, let us know once the transfer is done so we can set it up.
+
+  - For consistency, the team and repo names are determined based on the [ISO 639-1 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
 
 5. Once translation is finished, you can request to publish it under `*.vuejs.org` URLs. We will also add it to the list of existing translations on the English docs, and announce the translation from the official Twitter account!
 
