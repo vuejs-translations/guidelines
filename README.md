@@ -8,9 +8,11 @@ If you are interested in starting translation for a new language, please open a 
 
 2. Fork [vuejs/docs](https://github.com/vuejs/docs) to start the translation process in your own repo (you can create a dedicated organization for it if you want). Make sure to read the [Workflow Recommendations](#workflow-recommendations) section below before you start! Feel free to deploy your own preview with Vercel or Netlify during this phase.
 
-3. Once you have completed translation for more than 50% of the content, you can ping us in the original discussion thread to request officially transferring the repo into the `vuejs-translations` organization. We will invite you and other contributors to this organization as well so you can continue working on it. We will also create an official deployment under preview URL (we have partnerships with hosting platforms so you don't need to bear the cost in case the traffic gets high).
+3. Send us a Pull Request to add your WIP repo to the end of this README file.
 
-4. Once translation is finished, you can request to publish it under `*.vuejs.org` URLs. We will also add it to the list of existing translations on the English docs, and announce the translation from the official Twitter account!
+4. Once you have completed translation for more than 50% of the content, you can ping us in the original discussion thread to request officially transferring the repo into the `vuejs-translations` organization. We will invite you and other contributors to this organization as well so you can continue working on it. We will also create an official deployment under preview URL (we have partnerships with hosting platforms so you don't need to bear the cost in case the traffic gets high).
+
+5. Once translation is finished, you can request to publish it under `*.vuejs.org` URLs. We will also add it to the list of existing translations on the English docs, and announce the translation from the official Twitter account!
 
 ## Workflow Recommendations
 
@@ -50,3 +52,10 @@ It is recommended to set up an automated workflow to sync with upstream updates 
 2. Create an `upstream` branch, and use [this GitHub Action](https://github.com/TobKed/github-forks-sync-action) to sync that branch with the English docs. Periodically create PRs between `upstream` and `main` to sync the content with necessary translations. See [example config](https://github.com/vuejs-translations/docs-zh-cn/blob/main/.github/workflows/autosync.yml) in Chinese translation.
 
 You can reach out to the respective teams in their translations repo if you have questions on how to set up syncing.
+
+## Complete Translations
+
+- [Simplified Chinese](https://github.com/vuejs-translations/docs-zh-cn)
+- [Japanese](https://github.com/vuejs-translations/docs-ja)
+
+## Current Active Translations
