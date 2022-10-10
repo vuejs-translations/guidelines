@@ -36,9 +36,9 @@ It's recommended to manage the workload using issues and pull requests. Create a
 
 When working as a team, make sure to use consistent translations for common terminologies to avoid confusion. It's best to have a place to document the conventions and consensus generated from reviews. You can use GitHub wiki, team discussions thread, or directly as a markdown file in the repo itself. If a term is particularly tricky to concisely translate in your language, consider leaving it untranslated.
 
-### Translating Theme Text
+### Translating Non-Content Text
 
-Some text are part of the VitePress theme instead of markdown content. You can translate these as well by providing the `themeConfig.i18n` option in `.vitepress/config.ts`. [Example usage in Chinese translation](https://github.com/vuejs-translations/docs-zh-cn/blob/main/.vitepress/config.ts#L554-L588)
+Some text are part of the VitePress theme instead of markdown content. You can translate these in `.vitepress/config.ts`. In addition to navigation and sidebar items, you can also customize most of the theme text by providing the `themeConfig.i18n` option. [Example usage in Chinese translation](https://github.com/vuejs-translations/docs-zh-cn/blob/main/.vitepress/config.ts#L554-L588)
 
 ### Retaining Original Anchors
 
