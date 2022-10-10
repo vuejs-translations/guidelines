@@ -12,7 +12,7 @@ If you are here, you are likely interested in contributing to the translation of
 
 4. Once you have completed translation for more than 50% of the content, you can ping us in the original discussion thread to request officially transferring the repo into the `vuejs-translations` organization. We will invite you and other collaborators to the organization so you can continue working on it.
 
-  We will also create an official deployment under preview URL (we have partnerships with hosting platforms so you don't need to bear the cost in case the traffic gets high).
+  We will also create an official deployment with `*.vuejs.org` URL (we have partnerships with hosting platforms so you don't need to bear the cost in case the traffic gets high).
 
   Some Notes:
 
@@ -20,7 +20,7 @@ If you are here, you are likely interested in contributing to the translation of
 
   - For consistency, the team and repo names are determined based on the [ISO 639-1 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
 
-5. Once translation is finished, you can request to publish it under `*.vuejs.org` URLs. We will also add it to the list of existing translations on the English docs, and announce the translation from the official Twitter account!
+5. Once translation is finished, we will move it from WIP to completed languages on `vuejs.org`, and announce the translation from the official Twitter account!
 
 ## Workflow Recommendations
 
