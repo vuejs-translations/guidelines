@@ -1,6 +1,6 @@
 # Vue Community Translation Guidelines
 
-If you are interested in starting translation for a new language, please open a thread in the Discussions tab (and check if there is already one created for your language). This can help you find fellow collaborators and avoid duplicated efforts.
+If you are here, you are likely interested in contributing to the translation of the Vue.js documentation. Thank you! Before you start, make sure to read the following guidelines to get an understanding of the workflow.
 
 ## High Level Steps of Working on a New Translation
 
