@@ -67,3 +67,5 @@ You can reach out to the respective teams in their translations repo if you have
 - [Japanese](https://github.com/vuejs-translations/docs-ja)
 
 ## Current Active Translations
+
+- [Ukrainian ](https://github.com/vuejs-translations/docs-uk)
