@@ -69,4 +69,5 @@ You can reach out to the respective teams in their translations repo if you have
 ## Current Active Translations
 
 - [Ukrainian](https://github.com/vuejs-translations/docs-uk)
+- [Turkish](https://github.com/ssibrahimbas/vue-docs-tr)
 - [French](https://github.com/edimitchel/docs-fr)
