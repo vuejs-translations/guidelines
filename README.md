@@ -16,6 +16,8 @@ If you are here, you are likely interested in contributing to the translation of
 
   Some Notes:
 
+  - Before performing the transfer, use the GitHub support request to [detach your fork](https://support.github.com/request/fork). This is necessary because GitHub doesn't allow multiple forks of the same source repo to co-exist in the same organization.
+
   - When you first transfer the repo, you likely won't have write access to it because the repo will need to be assigned to the team for proper permissions, let us know once the transfer is done so we can set it up.
 
   - For consistency, the team and repo names are determined based on the [ISO 639-1 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
