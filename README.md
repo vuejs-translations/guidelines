@@ -70,3 +70,4 @@ You can reach out to the respective teams in their translations repo if you have
 
 - [Ukrainian](https://github.com/vuejs-translations/docs-uk)
 - [French](https://github.com/vuejs-translations/docs-fr)
+- [Turkish](https://github.com/ssibrahimbas/vue-docs-tr)
