@@ -46,10 +46,10 @@ Some text are part of the VitePress theme instead of markdown content. You can t
 
 VitePress automatically generates header anchor links (links that start with `#`) based on the text. Since we have a lot of cross-linking to headers within the site, it is easier to retain original English header links so that you don't need to update links everywhere when you translate the headers. It also makes it easier to switch between different languages of the same header link.
 
-To retain original English header link, first check the generated link in the English version (e.g. `#original-header`), then use the following syntax when translating:
+We already added header anchor links in the original English document, use the following syntax when translating to retain them:
 
 ```diff
-- ## Originial Header
+- ## Originial Header {#original-header}
 + ## Translated Header {#original-header}
 ```
 
