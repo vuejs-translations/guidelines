@@ -70,6 +70,12 @@ You can reach out to the respective teams in their translations repo if you have
 
 ## Current Active Translations
 
-- [Ukrainian](https://github.com/vuejs-translations/docs-uk)
-- [French](https://github.com/vuejs-translations/docs-fr)
-- [Turkish](https://github.com/ssibrahimbas/vue-docs-tr)
+- [French](https://github.com/vuejs-translations/docs-fr) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/2)
+- [Polish](https://github.com/WojciechSkirlo/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/31)
+- [Portuguese](https://github.com/WojciechSkirlo/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/26)
+- [Serbian](https://github.com/vuejs-rs/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/27)
+- [Spanish](https://github.com/drfcozapata/docs/) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/3)
+- [Turkish](https://github.com/ssibrahimbas/vue-docs-tr) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/30)
+- [Ukrainian](https://github.com/vuejs-translations/docs-uk) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/25)
+- [Uzbek](https://github.com/Zikoi5/docs-uz) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/32)
+- [Vietnamese](https://github.com/vuejs-vn/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/13)
