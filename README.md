@@ -65,7 +65,7 @@ VitePress는 텍스트를 기반으로 헤더 앵커 링크('#'로 시작하는 
 
 ## 완전한 번역
 
-- [간체 중국어](https://github.com/vuejs-translations/docs-zh-cn)
+- [중국어(간체)](https://github.com/vuejs-translations/docs-zh-cn)
 - [일본어](https://github.com/vuejs-translations/docs-ja)
 
 ## 현재 번역 중인
