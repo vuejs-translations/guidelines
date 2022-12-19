@@ -8,7 +8,7 @@
 
 2. [vuejs/https](https://github.com/vuejs/docs)를 클릭하여 자신의 레포에서 번역 프로세스를 시작합니다(원하는 경우 전용 조직을 만들 수 있음). 시작하기 전에 아래의 [워크플로우 권장사항](#워크플로우 권장사항) 섹션을 반드시 읽어보십시오! 이 단계에서 Vercel 또는 Netlify를 사용하여 원하는 미리 보기를 배포하십시오.
 
-3. 이 README 파일의 끝에 WIP 레포를 추가하려면 풀 요청을 보내 주십시오.
+3. README 파일의 끝에 WIP 레포를 추가하려면 풀 요청을 보내 주십시오.
 
 4. 내용의 50% 이상 번역을 마치면 원래 토론 스레드에서 ping을 실행하여 repo를 vuejs-translations 조직으로 정식 이관할 것을 요청할 수 있습니다. 계속 작업할 수 있도록 사용자와 다른 공동작업자를 조직으로 초대합니다.
 
@@ -28,7 +28,7 @@
 
 ### 설정
 
-영문 문서의 [기여 섹션](https://github.com/vuejs/docs#contributing)을 참조하십시오. pnpm과 Node.js v14+를 사용해야 합니다. [VitePress의 마크다운 확장 기능](https://vitepress.vuejs.org/guide/markdown.html)을 숙지하십시오.
+영문 문서의 [기여 섹션](https://github.com/vuejs/docs#contributing)을 참조하십시오. `pnpm`과 Node.js v14+를 사용해야 합니다. [VitePress의 마크다운 확장 기능](https://vitepress.vuejs.org/guide/markdown.html)을 숙지하십시오.
 
 ### 문제 사용 및 풀 요청
 
@@ -42,7 +42,7 @@
 
 일부 텍스트는 마크다운 콘텐츠 대신 VitePress 테마의 일부입니다. `.vitepress/config.ts`에서 번역할 수 있습니다. 탐색 및 사이드바 항목 외에도 `테마 구성.i18n` 옵션을 제공하여 대부분의 테마 텍스트를 사용자 지정할 수도 있습니다. [중국어 번역 사용 예시](https://github.com/vuejs-translations/docs-zh-cn/blob/main/.vitepress/config.ts#L554-L588)
 
-### 원래 앵커 유지
+### 오리지날 버전 유지
 
 VitePress는 텍스트를 기반으로 헤더 앵커 링크('#'로 시작하는 링크)를 자동으로 생성합니다. 사이트 내에 헤더에 대한 교차 링크가 많기 때문에 헤더를 번역할 때 모든 곳의 링크를 업데이트할 필요가 없도록 원본 영어 헤더 링크를 유지하는 것이 더 쉽습니다. 또한 동일한 헤더 링크의 다른 언어 간에 쉽게 전환할 수 있습니다.
 
@@ -68,16 +68,16 @@ VitePress는 텍스트를 기반으로 헤더 앵커 링크('#'로 시작하는 
 - [중국어(간체)](https://github.com/vuejs-translations/docs-zh-cn)
 - [일본어](https://github.com/vuejs-translations/docs-ja)
 
-## 현재 번역 중인
+## 현재 활성 번역 토론
 
-- [프랑스어](https://github.com/vuejs-translations/docs-fr) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/2)
-- [폴란드어](https://github.com/WojciechSkirlo/docs) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/31)
-- [포르투갈어](https://github.com/nazarepiedady/vue3-docs-pt) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/26)
-- [세르비아어](https://github.com/vuejs-rs/docs) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/27)
-- [스페인어](https://github.com/drfcozapata/docs/) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/3)
-- [터키어](https://github.com/ssibrahimbas/vue-docs-tr) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/30)
-- [우크라이나어](https://github.com/vuejs-translations/docs-uk) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/25)
-- [우즈베키스탄어](https://github.com/Zikoi5/docs-uz) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/32)
-- [베트남어](https://github.com/vuejs-vn/docs) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/13)
-- [독일어](https://github.com/roma-marshall/docs-de) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/49)
-- [한국어](https://github.com/FarrellLukas/docs-kr) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/57)
+- [프랑스](https://github.com/vuejs-translations/docs-fr) [(토론)](https://github.com/vuejs-translations/guidelines/discussions/2)
+- [폴란드](https://github.com/WojciechSkirlo/docs) [(토론)](https://github.com/vuejs-translations/guidelines/discussions/31)
+- [포르투갈](https://github.com/nazarepiedady/vue3-docs-pt) [(토론)](https://github.com/vuejs-translations/guidelines/discussions/26)
+- [세르비아](https://github.com/vuejs-rs/docs) [(토론)](https://github.com/vuejs-translations/guidelines/discussions/27)
+- [스페인](https://github.com/drfcozapata/docs/) [(토론)](https://github.com/vuejs-translations/guidelines/discussions/3)
+- [터키](https://github.com/ssibrahimbas/vue-docs-tr) [(토론)](https://github.com/vuejs-translations/guidelines/discussions/30)
+- [우크라이나](https://github.com/vuejs-translations/docs-uk) [(토론)](https://github.com/vuejs-translations/guidelines/discussions/25)
+- [우즈벡](https://github.com/Zikoi5/docs-uz) [(토론)](https://github.com/vuejs-translations/guidelines/discussions/32)
+- [베트남](https://github.com/vuejs-vn/docs) [(토론)](https://github.com/vuejs-translations/guidelines/discussions/13)
+- [독일](https://github.com/roma-marshall/docs-de) [(토론)](https://github.com/vuejs-translations/guidelines/discussions/49)
+- [한국](https://github.com/FarrellLukas/docs-kr) [(토론)](https://github.com/vuejs-translations/guidelines/discussions/57)
