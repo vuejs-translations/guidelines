@@ -59,7 +59,7 @@ VitePress는 텍스트를 기반으로 헤더 앵커 링크('#'로 시작하는 
 
 1. [Ryu-Cho](https://github.com/vuejs-translations/ryu-cho)를 사용하여 업스트림 업데이트를 추적하고 자동으로 이슈 / PR을 엽니다. [일본어 번역 예시](https://github.com/vuejs-translations/docs-ja/blob/main/.github/workflows/ryu-cho.yaml)을 참조하십시오.
 
-2. "bunch" 분기를 만들고 [깃허브 액션](https://github.com/TobKed/github-forks-sync-action)을 사용하여 해당 분기를 영어 문서와 동기화합니다. 'upstream'과 'main' 사이에 PR을 주기적으로 생성하여 필요한 번역과 내용을 동기화합니다. [중국어 번역 예시](https://github.com/vuejs-translations/docs-zh-cn/blob/main/.github/sync/autosync.yml)을 참조하십시오.
+2. branch 분기를 만들고 [깃허브 액션](https://github.com/TobKed/github-forks-sync-action)을 사용하여 해당 분기를 영어 문서와 동기화합니다. 'upstream'과 'main' 사이에 PR을 주기적으로 생성하여 필요한 번역과 내용을 동기화합니다. [중국어 번역 예시](https://github.com/vuejs-translations/docs-zh-cn/blob/main/.github/sync/autosync.yml)을 참조하십시오.
 
 동기화 설정 방법에 대해 궁금한 점이 있으면 번역 보고서의 각 팀에 문의할 수 있습니다.
 
