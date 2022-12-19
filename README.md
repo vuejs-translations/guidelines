@@ -68,9 +68,11 @@ You can reach out to the respective teams in their translations repo if you have
 - [Simplified Chinese](https://github.com/vuejs-translations/docs-zh-cn)
 - [Japanese](https://github.com/vuejs-translations/docs-ja)
 
-## Current Active Translations
+## Current Active Translations (in alphabetical order)
 
 - [French](https://github.com/vuejs-translations/docs-fr) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/2)
+- [German](https://github.com/roma-marshall/docs-de) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/49)
+- [Malay](https://github.com/mujahidfa/docs-ms) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/53)
 - [Polish](https://github.com/WojciechSkirlo/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/31)
 - [Portuguese](https://github.com/nazarepiedady/vue3-docs-pt) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/26)
 - [Serbian](https://github.com/vuejs-rs/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/27)
@@ -79,5 +81,3 @@ You can reach out to the respective teams in their translations repo if you have
 - [Ukrainian](https://github.com/vuejs-translations/docs-uk) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/25)
 - [Uzbek](https://github.com/Zikoi5/docs-uz) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/32)
 - [Vietnamese](https://github.com/vuejs-vn/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/13)
-- [German](https://github.com/roma-marshall/docs-de) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/49)
-- [Malay](https://github.com/mujahidfa/docs-ms) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/53)
