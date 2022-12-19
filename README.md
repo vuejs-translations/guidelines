@@ -40,7 +40,7 @@
 
 ### 내용이 아닌 텍스트 변환
 
-Some text are part of the VitePress theme instead of markdown content. You can translate these in `.vitepress/config.ts`. In addition to navigation and sidebar items, you can also customize most of the theme text by providing the `themeConfig.i18n` option. [Example usage in Chinese translation](https://github.com/vuejs-translations/docs-zh-cn/blob/main/.vitepress/config.ts#L554-L588)
+일부 텍스트는 마크다운 콘텐츠 대신 VitePress 테마의 일부입니다. `.vitepress/config.ts`에서 번역할 수 있습니다. 탐색 및 사이드바 항목 외에도 `테마 구성.i18n` 옵션을 제공하여 대부분의 테마 텍스트를 사용자 지정할 수도 있습니다. [중국어 번역 사용 예시] (https://github.com/vuejs-translations/docs-zh-cn/blob/main/.vitepress/config.ts#L554-L588)
 
 ### 원래 앵커 유지
 
@@ -57,9 +57,9 @@ VitePress는 텍스트를 기반으로 헤더 앵커 링크('#'로 시작하는 
 
 업스트림 업데이트와 수시로 동기화되도록 자동화된 워크플로우를 설정하는 것이 좋습니다. 기존에 선호하는 방법이 없는 경우 두 가지 권장 사항이 있습니다.:
 
-1. [Ryu-Cho](https://github.com/vuejs-translations/ryu-cho)를 사용하여 업스트림 업데이트를 추적하고 자동으로 이슈 / PR을 엽니다. [일본어 번역은](https://github.com/vuejs-translations/docs-ja/blob/main/.github/workflows/ryu-cho.yaml)을 참조하십시오.
+1. [Ryu-Cho](https://github.com/vuejs-translations/ryu-cho)를 사용하여 업스트림 업데이트를 추적하고 자동으로 이슈 / PR을 엽니다. [일본어 번역 예시](https://github.com/vuejs-translations/docs-ja/blob/main/.github/workflows/ryu-cho.yaml)을 참조하십시오.
 
-2. "bunch" 분기를 만들고 [깃허브 액션](https://github.com/TobKed/github-forks-sync-action)을 사용하여 해당 분기를 영어 문서와 동기화합니다. 'upstream'과 'main' 사이에 PR을 주기적으로 생성하여 필요한 번역과 내용을 동기화합니다. [중국어 번역에서는](https://github.com/vuejs-translations/docs-zh-cn/blob/main/.github/sync/autosync.yml)을 참조하십시오.
+2. "bunch" 분기를 만들고 [깃허브 액션](https://github.com/TobKed/github-forks-sync-action)을 사용하여 해당 분기를 영어 문서와 동기화합니다. 'upstream'과 'main' 사이에 PR을 주기적으로 생성하여 필요한 번역과 내용을 동기화합니다. [중국어 번역 예시](https://github.com/vuejs-translations/docs-zh-cn/blob/main/.github/sync/autosync.yml)을 참조하십시오.
 
 동기화 설정 방법에 대해 궁금한 점이 있으면 번역 보고서의 각 팀에 문의할 수 있습니다.
 
