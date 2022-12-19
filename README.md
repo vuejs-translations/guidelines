@@ -70,13 +70,13 @@ VitePress는 텍스트를 기반으로 헤더 앵커 링크('#'로 시작하는 
 
 ## Current Active Translations
 
-- [프랑스어](https://github.com/vuejs-translations/docs-fr) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/2))
+- [프랑스어](https://github.com/vuejs-translations/docs-fr) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/2)
 - [폴란드어](https://github.com/WojciechSkirlo/docs) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/31)
 - [포르투갈어](https://github.com/nazarepiedady/vue3-docs-pt) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/26)
-- [세르비아어](https://github.com/vuejs-rs/docs) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/27))
-- [스페인어](https://github.com/drfcozapata/docs/) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/3))
-- [터키어](https://github.com/ssibrahimbas/vue-docs-tr) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/30))
-- [우크라이나어](https://github.com/vuejs-translations/docs-uk) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/25))
+- [세르비아어](https://github.com/vuejs-rs/docs) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/27)
+- [스페인어](https://github.com/drfcozapata/docs/) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/3)
+- [터키어](https://github.com/ssibrahimbas/vue-docs-tr) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/30)
+- [우크라이나어](https://github.com/vuejs-translations/docs-uk) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/25)
 - [우즈베키스탄어](https://github.com/Zikoi5/docs-uz) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/32)
 - [베트남어](https://github.com/vuejs-vn/docs) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/13)
-- [독일어](https://github.com/roma-marshall/docs-de) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/49))
+- [독일어](https://github.com/roma-marshall/docs-de) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/49)
