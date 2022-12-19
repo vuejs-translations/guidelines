@@ -80,4 +80,4 @@ VitePress는 텍스트를 기반으로 헤더 앵커 링크('#'로 시작하는 
 - [우즈베키스탄어](https://github.com/Zikoi5/docs-uz) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/32)
 - [베트남어](https://github.com/vuejs-vn/docs) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/13)
 - [독일어](https://github.com/roma-marshall/docs-de) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/49)
-- [한국어](https://github.com/FarrellLukas/docs-kr) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/4)
+- [한국어](https://github.com/FarrellLukas/docs-kr) [(논의)](https://github.com/vuejs-translations/guidelines/discussions/57)
