@@ -40,7 +40,7 @@
 
 ### 내용이 아닌 텍스트 변환
 
-일부 텍스트는 마크다운 콘텐츠 대신 VitePress 테마의 일부입니다. `.vitepress/config.ts`에서 번역할 수 있습니다. 탐색 및 사이드바 항목 외에도 `테마 구성.i18n` 옵션을 제공하여 대부분의 테마 텍스트를 사용자 지정할 수도 있습니다. [중국어 번역 사용 예시] (https://github.com/vuejs-translations/docs-zh-cn/blob/main/.vitepress/config.ts#L554-L588)
+일부 텍스트는 마크다운 콘텐츠 대신 VitePress 테마의 일부입니다. `.vitepress/config.ts`에서 번역할 수 있습니다. 탐색 및 사이드바 항목 외에도 `테마 구성.i18n` 옵션을 제공하여 대부분의 테마 텍스트를 사용자 지정할 수도 있습니다. [중국어 번역 사용 예시](https://github.com/vuejs-translations/docs-zh-cn/blob/main/.vitepress/config.ts#L554-L588)
 
 ### 원래 앵커 유지
 
