@@ -12,15 +12,15 @@ If you are here, you are likely interested in contributing to the translation of
 
 4. Once you have completed translation for more than 50% of the content, you can ping us in the original discussion thread to request officially transferring the repo into the `vuejs-translations` organization. We will invite you and other collaborators to the organization so you can continue working on it.
 
-  We will also create an official deployment with `*.vuejs.org` URL (we have partnerships with hosting platforms so you don't need to bear the cost in case the traffic gets high).
+   We will also create an official deployment with `*.vuejs.org` URL (we have partnerships with hosting platforms so you don't need to bear the cost in case the traffic gets high).
 
-  Some Notes:
+   Some Notes:
 
-  - Before performing the transfer, use the GitHub support request to [detach your fork](https://support.github.com/request/fork). This is necessary because GitHub doesn't allow multiple forks of the same source repo to co-exist in the same organization.
+   - Before performing the transfer, use the GitHub support request to [detach your fork](https://support.github.com/request/fork). This is necessary because GitHub doesn't allow multiple forks of the same source repo to co-exist in the same organization.
 
-  - When you first transfer the repo, you likely won't have write access to it because the repo will need to be assigned to the team for proper permissions, let us know once the transfer is done so we can set it up.
+   - When you first transfer the repo, you likely won't have write access to it because the repo will need to be assigned to the team for proper permissions, let us know once the transfer is done so we can set it up.
 
-  - For consistency, the team and repo names are determined based on the [ISO 639-1 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
+   - For consistency, the team and repo names are determined based on the [ISO 639-1 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
 
 5. Once translation is finished, we will move it from WIP to completed languages on `vuejs.org`, and announce the translation from the official Twitter account!
 
