@@ -49,7 +49,7 @@ VitePress automatically generates header anchor links (links that start with `#`
 We already added header anchor links in the original English document, use the following syntax when translating to retain them:
 
 ```diff
-- ## Originial Header {#original-header}
+- ## Original Header {#original-header}
 + ## Translated Header {#original-header}
 ```
 
