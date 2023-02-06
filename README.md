@@ -53,6 +53,14 @@ We already added header anchor links in the original English document, use the f
 + ## Translated Header {#original-header}
 ```
 
+You may also notice that some headers are followed by one or two `\*` markers:
+
+```md
+### `<script setup>` \*\* {#script-setup}
+```
+
+These are custom markers we use to differentiate between Options-API-only and Composition-API-only sections. We use a custom markdown plugin to wrap these sections in additional divs that can be shown / hidden by toggling CSS classes. Please keep them when translating the headers!
+
 ### Syncing with Upstream
 
 It is recommended to set up an automated workflow to sync with upstream updates from time to time. If you don't have an existing preferred method of doing so, we have two recommendations:
