@@ -81,6 +81,7 @@ You can reach out to the respective teams in their translations repo if you have
 - [Arabic](https://github.com/Abdelaziz18003/vuejs-docs-ar) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/60)
 - [French](https://github.com/vuejs-translations/docs-fr) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/2)
 - [German](https://github.com/roma-marshall/docs-de) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/49)
+- [Korean](https://github.com/vuejs-kr/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/57)
 - [Malay](https://github.com/mujahidfa/docs-ms) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/53)
 - [Polish](https://github.com/WojciechSkirlo/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/31)
 - [Portuguese](https://github.com/nazarepiedady/vue3-docs-pt) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/26)
