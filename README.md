@@ -77,13 +77,13 @@ You can reach out to the respective teams in their translations repo if you have
 - [Japanese](https://github.com/vuejs-translations/docs-ja)
 - [Ukrainian](https://github.com/vuejs-translations/docs-uk) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/25)
 - [French](https://github.com/vuejs-translations/docs-fr) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/2)
-- [Korean](https://github.com/vuejs-kr/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/57)
-- [Portuguese](https://github.com/nazarepiedady/vue3-docs-pt) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/26)
+- [Korean](https://github.com/vuejs-translations/docs-ko) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/57)
+- [Portuguese](https://github.com/vuejs-translations/docs-pt) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/26)
+- [Bangla](https://github.com/vuejs-translations/docs-bn) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/66)
 
 ## Current Active Translations (in alphabetical order)
 
 - [Arabic](https://github.com/Abdelaziz18003/vuejs-docs-ar) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/60)
-- [Bangla](https://github.com/mahmudunnabikajal/docs-bn) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/66)
 - [Czech](https://github.com/AloisSeckar/vuejs-docs-cs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/64)
 - [German](https://github.com/roma-marshall/docs-de) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/49)
 - [Italian](https://github.com/phox081/docs-it) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/23)
