@@ -22,7 +22,7 @@ If you are here, you are likely interested in contributing to the translation of
 
    - For consistency, the team and repo names are determined based on the [ISO 639-1 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
 
-5. Once translation is finished, we will move it from WIP to completed languages on `vuejs.org`, and announce the translation from the official Twitter account!
+5. Once translation is finished, Send us a Pull Request to add a link to the translation on `vuejs.org`. See [example 1](https://github.com/vuejs/docs/pull/2448) and [example 2](https://github.com/vuejs/docs/pull/2508). We will merge it and announce the translation from the official Twitter account!
 
 ## Workflow Recommendations
 
