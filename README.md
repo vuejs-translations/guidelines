@@ -83,7 +83,7 @@ You can reach out to the respective teams in their translations repo if you have
 
 ## Current Active Translations (in alphabetical order)
 
-- [Arabic](https://github.com/Abdelaziz18003/vuejs-docs-ar) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/60)
+- [Arabic](https://github.com/vuejs-translations/docs-ar) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/60)
 - [Czech](https://github.com/AloisSeckar/vuejs-docs-cs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/64)
 - [German](https://github.com/roma-marshall/docs-de) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/49)
 - [Italian](https://github.com/phox081/docs-it) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/23)
