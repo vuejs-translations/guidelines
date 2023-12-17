@@ -1,5 +1,7 @@
 # Vue Ecosystem Translation Guidelines
 
+_THIS IS A DRAFT YET._
+
 Here are the guidelines for translating docs in Vue ecosystem, including official libraries like Pinia, Vue Router, etc.
 
 ## Concepts
@@ -59,7 +61,7 @@ In this way above, you will get the translation in your own host.
 
 - [Vue Router](https://router.vuejs.org/) ([GitHub repo](https://github.com/vuejs/router)) ([translation guidelines](https://github.com/vuejs/router/blob/main/.github/contributing.md#contributing-docs))
 - [Pinia](https://pinia.vuejs.org/) ([GitHub repo](https://github.com/vuejs/pinia)) (translation guidelines under preparation)
-- [Vue Test Utils](https://test-utils.vuejs.org/) (GitHub repo](https://github.com/vuejs/test-utils/)) (translation guidelines under preparation)
+- [Vue Test Utils](https://test-utils.vuejs.org/) ([GitHub repo](https://github.com/vuejs/test-utils/)) (translation guidelines under preparation)
 - [Vue 3 Migration Guide](https://v3-migration.vuejs.org/) ([GitHub repo](https://github.com/vuejs/v3-migration-guide)) (translation guidelines under preparation)
 
 ## Other Vue ecosystem projects
