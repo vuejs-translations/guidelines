@@ -7,10 +7,10 @@ Here are the guidelines for translating docs in Vue ecosystem, including officia
 ## Concepts
 
 1. **Language**: Every project might have English docs by default. And it's welcome to add docs in other languages. Usually, they are the translations of the English docs.
-    - _Language List UI_: It's a menu list for all the available languages on the doc site. It's helpful for users to switch the docs to their prefered language.
+    - **Language List UI**: It's a menu list for all the available languages on the doc site. It's helpful for users to switch the docs to their prefered language.
 2. **Checkpoint**: Since the English docs are keep updating. It's very important for other language docs to have some "checkpoints". A checkpoint is the hash and date of the latest commit when you update the translation. It's crucial for long-term maintenance since all the further translation sync-ups are based on their previous checkpoints.
 3. **Translation Status**: It's the checkpoints information for all the languages that we have translated.
-    - _Translation Status UI_: It's a block of UI displaying the Translation Status. Usually, it's the date of the latest update for the current language. It's helpful for users to know how fresh the current translation is. Also, it's an invisible encouragement for users to contribute the translations when they find anything outdated.
+    - **Translation Status UI**: It's a block of UI displaying the _Translation Status_. Usually, it's the date of the latest update for the current language. It's helpful for users to know how fresh the current translation is. Also, it's an invisible encouragement for users to contribute the translations when they find anything outdated.
 
 ## High Level Steps
 
@@ -18,7 +18,7 @@ If you want to start translating the docs in a new language:
 
 1. Set up the new language in the repo
 2. Translate all the content into the new language
-3. Initialize the checkpoint information into the Translation Status
+3. Initialize the checkpoint information into the _Translation Status_
 4. Commit all the changes
 
 If you want to keep a translation up-to-date:
@@ -44,7 +44,7 @@ To translate the docs, you have 2 options to follow:
 4. The content can be translated and put into a `<lang>` sub-folder.
 
 In this way above, you will get the translation in the _same_ doc site with:
-- A new link to your translation in the Language List UI
+- A new link to your translation in the _Language List UI_
 - A sub-path for your translation. (e.g. in Vue Router docs https://router.vuejs.org/, the URL of the Chinese translation is https://router.vuejs.org/zh/)
 
 ### Self-host the translation
@@ -53,7 +53,7 @@ In this way above, you will get the translation in the _same_ doc site with:
 2. You can translate all the i18n info directly in the VitePress config.
 3. You can translate all the content directly.
 4. You need to self-host your doc site with necessarily config change like the domain, the deployment config, etc.
-5. You are highly encouraged to create a pull request to the official doc site to add a new link to your translation doc site in the Language List UI.
+5. You are highly encouraged to create a pull request to the official doc site to add a new link to your translation doc site in the _Language List UI_.
 
 In this way above, you will get the translation in your own host.
 
