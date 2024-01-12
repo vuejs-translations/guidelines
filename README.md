@@ -2,6 +2,8 @@
 
 If you are here, you are likely interested in contributing to the translation of the Vue.js documentation. Thank you! Before you start, make sure to read the following guidelines to get an understanding of the workflow.
 
+> For translating docs of more Vue ecosystem projects, see [Vue Ecosystem Translation Guidelines](README_ECOSYSTEM.md).
+
 ## High Level Steps of Working on a New Translation
 
 1. Open a thread in the Discussion tab to indicate your intention of working on a translation. Make sure to check if there is already one created for your language - this can help avoid duplicated efforts. Use the thread to find fellow collaborators to form a translation team. We strongly suggest working as a team because peer reviews are necessary to ensure translation quality.
