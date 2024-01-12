@@ -1,7 +1,5 @@
 # Vue Ecosystem Translation Guidelines
 
-_THIS IS A DRAFT YET._
-
 Here are the guidelines for translating docs in Vue ecosystem, including official libraries like Pinia, Vue Router, etc.
 
 ## Concepts
@@ -71,7 +69,7 @@ See more information on the [VitePress Internationalization](https://vitepress.d
 
 Also, in VitePress v1.0.0-rc35 and above, it supports `dir` field in frontmatter for each page.
 
-## Current official libraries to translate their docs
+## Official Vue projects your can translate their docs
 
 - [Vue Router](https://router.vuejs.org/) ([GitHub repo](https://github.com/vuejs/router)) ([translation guidelines](https://github.com/vuejs/router/blob/main/.github/contributing.md#contributing-docs))
 - [Pinia](https://pinia.vuejs.org/) ([GitHub repo](https://github.com/vuejs/pinia)) (translation guidelines under preparation)
