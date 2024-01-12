@@ -47,6 +47,8 @@ In this way above, you will get the translation in the _same_ doc site with:
 - A new link to your translation in the _Language List UI_
 - A sub-path for your translation. (e.g. in Vue Router docs https://router.vuejs.org/, the URL of the Chinese translation is https://router.vuejs.org/zh/)
 
+_For better doing that, we have prepared a project named [`vitepress-translation-helper`](https://github.com/vuejs-translations/vitepress-translation-helper) to help you. See more usage details on its README._
+
 ### Self-host the translation
 
 1. You can translate all the menu items and navigation items directly in the VitePress config.
@@ -56,6 +58,12 @@ In this way above, you will get the translation in the _same_ doc site with:
 5. You are highly encouraged to create a pull request to the official doc site to add a new link to your translation doc site in the _Language List UI_.
 
 In this way above, you will get the translation in your own host.
+
+### For Right-to-Left language
+
+See more information on the [VitePress Internationalization](https://vitepress.dev/guide/i18n#rtl-support-experimental) page.
+
+Also, in VitePress v1.0.0-rc35 and above, it supports `dir` field in frontmatter for each page.
 
 ## Current official libraries to translate their docs
 
