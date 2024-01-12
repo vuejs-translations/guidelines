@@ -28,6 +28,10 @@ If you want to keep a translation up-to-date:
 3. Update the current langauge checkpoint.
 4. Commit all the changes
 
+The typical workflow is like this:
+
+![typical translation workflow](./assets/ecosystem-workflow.svg)
+
 ## Some practical advice
 
 _Here is some practical advice for the translation. However, when you contribute, please do follow the guidelines of the project for more details._
@@ -48,6 +52,8 @@ In this way above, you will get the translation in the _same_ doc site with:
 - A sub-path for your translation. (e.g. in Vue Router docs https://router.vuejs.org/, the URL of the Chinese translation is https://router.vuejs.org/zh/)
 
 _For better doing that, we have prepared a project named [`vitepress-translation-helper`](https://github.com/vuejs-translations/vitepress-translation-helper) to help you. See more usage details on its README._
+
+![typical translation workflow for regular update](./assets/ecosystem-workflow-update.svg)
 
 ### Self-host the translation
 

@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" modified="2024-01-12T02:34:05.962Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="W3p-Hw4VheyXJS6HmOEi" version="22.1.18" type="device">
+  <diagram name="Page-1" id="BpjJpDksya4O373mOuW-">
+    <mxGraphModel dx="1464" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v1uuImqvkQ1xuhyvour1-3" value="nth checkpoint for locale A" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=3;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v1uuImqvkQ1xuhyvour1-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;strokeWidth=3;" edge="1" parent="1" source="v1uuImqvkQ1xuhyvour1-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="640" as="sourcePoint" />
+            <mxPoint x="180" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1uuImqvkQ1xuhyvour1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeWidth=3;" edge="1" parent="1" target="v1uuImqvkQ1xuhyvour1-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1uuImqvkQ1xuhyvour1-16" value="nth translation for locale A" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;fontColor=#0066CC;fontSize=16;strokeWidth=3;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v1uuImqvkQ1xuhyvour1-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3399FF;fontSize=16;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="469.5" as="sourcePoint" />
+            <mxPoint x="320" y="469.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1uuImqvkQ1xuhyvour1-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#3399FF;fontSize=16;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="470" as="sourcePoint" />
+            <mxPoint x="180" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1uuImqvkQ1xuhyvour1-27" value="// Start a new translation branch&lt;br&gt;git checkout -b translation/A&lt;br&gt;&lt;br&gt;// See the diff from the previous checkpoint&lt;br&gt;v-translation compare A&lt;br&gt;// or via&amp;nbsp;https://github.com/&amp;lt;your-repo&amp;gt;/compare/&lt;br&gt;&lt;br&gt;// Do all the translation&lt;br&gt;&lt;br&gt;// Update the translation status JSON file&lt;br&gt;// (with the current commit hash on main branch)&lt;br&gt;v-translation update A&lt;br&gt;&lt;br&gt;// Commit, push, create a PR&lt;br&gt;git commit&lt;br&gt;git push my-clone translation/A" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="380" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="v1uuImqvkQ1xuhyvour1-28" value="main branch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="150" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
