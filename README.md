@@ -44,6 +44,20 @@ When working as a team, make sure to use consistent translations for common term
 
 Some text are part of the VitePress theme instead of markdown content. You can translate these in `.vitepress/config.ts`. In addition to navigation and sidebar items, you can also customize most of the theme text by providing the `themeConfig.i18n` option. [Example usage in Chinese translation](https://github.com/vuejs-translations/docs-zh-cn/blob/main/.vitepress/config.ts#L554-L588)
 
+### Translating Images
+
+All the images are embeded into docs with the Figma URLs set aside as code comments. You can search them out by this link:
+
+https://github.com/search?q=repo%3Avuejs%2Fdocs%20figma&type=code
+
+To translate the text in those images, we recommend to:
+
+1. fork the Figma docs accordingly,
+2. translate the text in Figma, and
+3. export the new image.
+
+You can add specific suffixes to the new images according to your language code. Adding the forked Figma URL in the code comment is also welcome. [Example practice in Chinese translation](https://github.com/vuejs-translations/docs-zh-cn/pull/858)
+
 ### Retaining Original Anchors
 
 VitePress automatically generates header anchor links (links that start with `#`) based on the text. Since we have a lot of cross-linking to headers within the site, it is easier to retain original English header links so that you don't need to update links everywhere when you translate the headers. It also makes it easier to switch between different languages of the same header link.
