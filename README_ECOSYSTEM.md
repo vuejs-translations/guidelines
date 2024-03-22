@@ -72,9 +72,9 @@ Also, in VitePress v1.0.0-rc35 and above, it supports `dir` field in frontmatter
 ## Official Vue projects your can translate their docs
 
 - [Vue Router](https://router.vuejs.org/) ([GitHub repo](https://github.com/vuejs/router)) ([translation guidelines](https://github.com/vuejs/router/blob/main/.github/contributing.md#contributing-docs))
-- [Pinia](https://pinia.vuejs.org/) ([GitHub repo](https://github.com/vuejs/pinia)) (translation guidelines under preparation)
-- [Vue Test Utils](https://test-utils.vuejs.org/) ([GitHub repo](https://github.com/vuejs/test-utils/)) (translation guidelines under preparation)
-- [Vue 3 Migration Guide](https://v3-migration.vuejs.org/) ([GitHub repo](https://github.com/vuejs/v3-migration-guide)) (translation guidelines under preparation)
+- [Pinia](https://pinia.vuejs.org/) ([GitHub repo](https://github.com/vuejs/pinia)) 
+- [Vue Test Utils](https://test-utils.vuejs.org/) ([GitHub repo](https://github.com/vuejs/test-utils/))
+- [Vue 3 Migration Guide](https://v3-migration.vuejs.org/) ([GitHub repo](https://github.com/vuejs/v3-migration-guide))
 
 ## Other Vue ecosystem projects
 
