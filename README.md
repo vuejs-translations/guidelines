@@ -96,14 +96,14 @@ You can reach out to the respective teams in their translations repo if you have
 - [Korean](https://github.com/vuejs-translations/docs-ko) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/57)
 - [Portuguese](https://github.com/vuejs-translations/docs-pt) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/26)
 - [Bangla](https://github.com/vuejs-translations/docs-bn) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/66)
+- [Italian](https://github.com/phox081/docs-it) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/23)
 - [Persian](https://github.com/vuejs-translations/docs-fa) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/6)
+- [Czech](https://github.com/AloisSeckar/vuejs-docs-cs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/64)
 
 ## Current Active Translations (in alphabetical order)
 
 - [Arabic](https://github.com/vuejs-translations/docs-ar) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/60)
-- [Czech](https://github.com/AloisSeckar/vuejs-docs-cs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/64)
 - [German](https://github.com/roma-marshall/docs-de) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/49)
-- [Italian](https://github.com/phox081/docs-it) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/23)
 - [Malay](https://github.com/mujahidfa/docs-ms) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/53)
 - [Polish](https://github.com/WojciechSkirlo/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/31)
 - [Russian](https://github.com/translation-gang/docs-ru) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/12)
