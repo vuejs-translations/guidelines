@@ -96,9 +96,11 @@ You can reach out to the respective teams in their translations repo if you have
 - [Korean](https://github.com/vuejs-translations/docs-ko) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/57)
 - [Portuguese](https://github.com/vuejs-translations/docs-pt) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/26)
 - [Bangla](https://github.com/vuejs-translations/docs-bn) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/66)
-- [Italian](https://github.com/phox081/docs-it) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/23)
+- [Italian](https://github.com/vuejs-translations/docs-it) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/23)
 - [Persian](https://github.com/vuejs-translations/docs-fa) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/6)
-- [Czech](https://github.com/AloisSeckar/vuejs-docs-cs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/64)
+- [Russian](https://github.com/translation-gang/docs-ru) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/12)
+- [Czech](https://github.com/vuejs-translations/docs-cs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/64)
+- [Traditional Chinese (Hong Kong)](https://github.com/vuejs-translations/docs-zh-hk) [(discussions)](https://github.com/orgs/vuejs-translations/discussions/82)
 
 ## Current Active Translations (in alphabetical order)
 
@@ -106,7 +108,6 @@ You can reach out to the respective teams in their translations repo if you have
 - [German](https://github.com/roma-marshall/docs-de) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/49)
 - [Malay](https://github.com/mujahidfa/docs-ms) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/53)
 - [Polish](https://github.com/WojciechSkirlo/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/31)
-- [Russian](https://github.com/translation-gang/docs-ru) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/12)
 - [Serbian](https://github.com/vuejs-rs/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/27)
 - [Spanish](https://github.com/drfcozapata/docs/) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/3)
 - [Uzbek](https://github.com/Zikoi5/docs-uz) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/32)
