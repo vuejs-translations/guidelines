@@ -110,5 +110,6 @@ You can reach out to the respective teams in their translations repo if you have
 - [Polish](https://github.com/WojciechSkirlo/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/31)
 - [Serbian](https://github.com/vuejs-rs/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/27)
 - [Spanish](https://github.com/drfcozapata/docs/) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/3)
+- [Turkish](https://github.com/cbugk/vuejs-docs-tr) [(discussions)](https://github.com/orgs/vuejs-translations/discussions/30)
 - [Uzbek](https://github.com/Zikoi5/docs-uz) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/32)
 - [Vietnamese](https://github.com/vuejs-vn/docs) [(discussions)](https://github.com/vuejs-translations/guidelines/discussions/13)
