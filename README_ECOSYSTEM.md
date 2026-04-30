@@ -1,23 +1,35 @@
 # Vue Ecosystem Translation Guidelines
 
-Here are the guidelines for translating docs in Vue ecosystem, including official libraries like Pinia, Vue Router, etc.
+This document is now primarily kept as a reference for existing translation efforts in the Vue ecosystem, including official libraries like Pinia, Vue Router, and others.
+
+> Vue ecosystem projects are likewise not accepting new translations through this repository. Official links or domains should only point to translations that have active maintainers and regular upstream sync. When a translation is no longer actively maintained, projects should prefer directing users to the English docs.
+
+## Translation Policy
+
+1. Do not use this guide as a request channel for starting a new official translation.
+2. Keep official translation links only for locales that still have active maintainers.
+3. When a translation stops being actively maintained, prefer removing official support and directing users back to the English docs.
+4. The rest of this document is historical and practical reference material for teams that still maintain an existing translation or self-host one independently.
+
+## Why We Are Making This Change
+
+This change is mainly about sustainability, not a dismissal of previous translation efforts. Community translations have been valuable, but the tradeoffs are different now.
+
+1. AI-assisted translation quality is now good enough that the incremental benefit of maintaining many separate official translations is much lower than before.
+2. For project maintainers, supporting an official translation means ongoing coordination work, not just accepting an initial contribution: keeping checkpoints current, reviewing terminology, and tracking upstream changes release after release.
+3. Ecosystem docs also move quickly. When an official translation becomes stale, users may still treat it as current because it appears in official navigation, which makes version skew harder to notice.
+4. Maintaining official links and domains for inactive translations creates management overhead that is difficult to justify when the English docs are the most reliable source of truth.
+5. Projects should still support active translation teams where that is clearly sustainable, but they should not feel obligated to keep official support for translations that no longer have maintainers.
 
 ## Concepts
 
-1. **Language**: Every project might have English docs by default. And it's welcome to add docs in other languages. Usually, they are the translations of the English docs.
+1. **Language**: Every project has English docs by default. Some projects may also keep docs in other languages when there is an active team maintaining them.
     - **Language List UI**: It's a menu list for all the available languages on the doc site. It's helpful for users to switch the docs to their prefered language.
 2. **Checkpoint**: Since the English docs are keep updating. It's very important for other language docs to have some "checkpoints". A checkpoint is the hash and date of the latest commit when you update the translation. It's crucial for long-term maintenance since all the further translation sync-ups are based on their previous checkpoints.
 3. **Translation Status**: It's the checkpoints information for all the languages that we have translated.
     - **Translation Status UI**: It's a block of UI displaying the _Translation Status_. Usually, it's the date of the latest update for the current language. It's helpful for users to know how fresh the current translation is. Also, it's an invisible encouragement for users to contribute the translations when they find anything outdated.
 
-## High Level Steps
-
-If you want to start translating the docs in a new language:
-
-1. Set up the new language in the repo
-2. Translate all the content into the new language
-3. Initialize the checkpoint information into the _Translation Status_
-4. Commit all the changes
+## High Level Steps for Existing Translation Teams
 
 If you want to keep a translation up-to-date:
 
@@ -32,36 +44,38 @@ The typical workflow is like this:
 
 ## Some practical advice
 
-_Here is some practical advice for the translation. However, when you contribute, please do follow the guidelines of the project for more details._
+_Here is some practical advice for teams maintaining an existing translation. However, please do follow the guidelines of the project for more details._
 
 Usually, the docs of a project is a sub-package based on VitePress in their repo/workspace. So this part is all based on VitePress.
 
-To translate the docs, you have 2 options to follow:
+Projects that still maintain translations typically use one of these 2 setups:
 
-### Translate in the official repo
+### Maintain a translation in the official repo
 
-1. You can add a locale information in the VitePress config.
-2. You can translate all the menu items and navigation items in the new locale of the VitePress config.
-3. You can translate all the i18n info in the new locale of the VitePress config.
-4. The content can be translated and put into a `<lang>` sub-folder.
+This only makes sense when the project already supports that locale and has active maintainers.
 
-In this way above, you will get the translation in the _same_ doc site with:
-- A new link to your translation in the _Language List UI_
-- A sub-path for your translation. (e.g. in Vue Router docs https://router.vuejs.org/, the URL of the Chinese translation is https://router.vuejs.org/zh/)
+1. Keep the locale information in the VitePress config up to date.
+2. Translate the menu items and navigation items for that locale in the VitePress config.
+3. Translate the i18n info for that locale in the VitePress config.
+4. Keep the translated content in its `<lang>` sub-folder.
+
+In this setup, the translation lives in the _same_ doc site with:
+- A link in the _Language List UI_
+- A sub-path for the translation. (e.g. in Vue Router docs https://router.vuejs.org/, the URL of the Chinese translation is https://router.vuejs.org/zh/)
 
 _For better doing that, we have prepared a project named [`vitepress-translation-helper`](https://github.com/vuejs-translations/vitepress-translation-helper) to help you. See more usage details on its README._
 
 ![typical translation workflow for regular update](./assets/ecosystem-workflow-update.svg)
 
-### Self-host the translation
+### Self-host a translation
 
 1. You can translate all the menu items and navigation items directly in the VitePress config.
 2. You can translate all the i18n info directly in the VitePress config.
 3. You can translate all the content directly.
 4. You need to self-host your doc site with necessarily config change like the domain, the deployment config, etc.
-5. You are highly encouraged to create a pull request to the official doc site to add a new link to your translation doc site in the _Language List UI_.
+5. Only add a link from the official doc site if the project team explicitly agrees to support it. Otherwise, keep the translation independent.
 
-In this way above, you will get the translation in your own host.
+In this setup, the translation lives on your own host.
 
 ### For Right-to-Left language
 
@@ -69,7 +83,7 @@ See more information on the [VitePress Internationalization](https://vitepress.d
 
 Also, in VitePress v1.0.0-rc35 and above, it supports `dir` field in frontmatter for each page.
 
-## Official Vue projects your can translate their docs
+## Project-specific docs repositories
 
 - [Vue Router](https://router.vuejs.org/) ([GitHub repo](https://github.com/vuejs/router)) ([translation guidelines](https://github.com/vuejs/router/blob/main/.github/contributing.md#contributing-docs))
 - [Pinia](https://pinia.vuejs.org/) ([GitHub repo](https://github.com/vuejs/pinia)) ([translation guidelines](https://github.com/vuejs/pinia/blob/v2/.github/CONTRIBUTING.md#contributing-docs))
@@ -78,4 +92,4 @@ Also, in VitePress v1.0.0-rc35 and above, it supports `dir` field in frontmatter
 
 ## Other Vue ecosystem projects
 
-_If you have a project would like to show and call for translations, feel free to add it here and create a pull request._
+_Historically, this section collected projects looking for translations. We are no longer collecting new requests here._
